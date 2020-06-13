@@ -1,0 +1,115 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 -768 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 -768 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 -256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 -768 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 0 1 -256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 -768 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 0 -1 -256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+( -1 0 0 -512 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/metal/gold" 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"origin" "-256 0 0"
+}
+// entity 2
+{
+"classname" "light"
+"name" "light_1"
+"origin" "0 0 256"
+"light_center" "0 0 0"
+"light_radius" "320 320 320"
+}
+// entity 3
+{
+"classname" "light"
+"name" "light_2"
+"origin" "-256 0 256"
+"light_center" "0 0 0"
+"light_radius" "320 320 320"
+}
+// entity 4
+{
+"classname" "light"
+"name" "light_3"
+"origin" "-256 0 256"
+"light_center" "0 0 0"
+"light_radius" "320 320 320"
+}
+// entity 5
+{
+"classname" "light"
+"name" "light_4"
+"origin" "256 0 256"
+"light_center" "0 0 0"
+"light_radius" "320 320 320"
+}
