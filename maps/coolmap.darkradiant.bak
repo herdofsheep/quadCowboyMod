@@ -8,13 +8,13 @@ DarkRadiant Map Information File Version 2
 	}
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "903" } 
-		KeyValue { "LastCameraAngle" "-8.4 192 0" } 
-		KeyValue { "LastCameraPosition" "-136.184 34.7179 90.3853" } 
+		KeyValue { "EditTimeInSeconds" "1448" } 
+		KeyValue { "LastCameraAngle" "-0.900001 87.9001 0" } 
+		KeyValue { "LastCameraPosition" "-38.1996 72.0899 182.079" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 903 }
+		TotalSecondsEdited { 1448 }
 	}
 	Layers
 	{
@@ -31,6 +31,9 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (info_player_start_1)
 		Node { 0 } // entity (light_1)
+		Node { 0 } // entity (light_2)
+		Node { 0 } // entity (light_3)
+		Node { 0 } // entity (light_4)
 	}
 	SelectionSets
 	{
